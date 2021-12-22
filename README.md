@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chandanpreet91
 - 👀 I’m interested in Full Stack Development.
-- 🌱 I’m currently learning Flutter and Dart language.
+- 🌱 I’m currently learning React Hooks.
 - 📫 How to reach me - kaurchandanpreet91@gmail.com
 
 <!---
